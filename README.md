@@ -30,7 +30,7 @@ The library obtains the emojis from the [Emojidex API](https://developer.emojide
 ## Contributors
 
 1. [Pooja](https://github.com/pk0267)
-2. [Arpan] (https://github.com/RealArpanBhattacharya)
+2. [Arpan](https://github.com/RealArpanBhattacharya)
 
 To become a contributor, send an email to [me](mailto:poorvajakolli99@gmail.com).
 
